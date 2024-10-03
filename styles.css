@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.break-length-container {
+  height: 200px;
+  width: 200px;
+  background-color: tomato;
+  text-align: center;
+  float: right;
+  border: solid;
+  color: black;
+}
+
+.session-length-container {
+  height: 200px;
+  width: 200px;
+  background-color: tomato;
+  text-align: center;
+  float: left;
+  border: solid;
+  color: black;
+}
+
+.timer-and-buttons-container {
+  text-align: center;
+  background-color: tomato;
+  border: solid;
+  color: black;
+}
